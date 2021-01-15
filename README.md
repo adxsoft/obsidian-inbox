@@ -15,7 +15,7 @@ I built this app in a couple of hours using MIT App Inventor 2 (see step 4 below
 A. Click start a new project
 B. Download the file *obsidian_inbox.aia.zip* to your computer
 C. Choose Projects menu, Import project (.aia) from my computer and choose the file *obsidian_inbox.aia* you just unzipped in step A
-D. Once the project is loaded click on the Blocks button at the top right
+D. Once the project is loaded click on the Blocks button at the top right (see file *obsidian_inbox_blocks.pdf* for image of the blocks
 E. change the global variables as follows
 F. global DropboxAccessToken   - set to your Dropbox Access Token value
 - global DropboxFolder - folder location of the text file - relative to the root folder of your Dropbox Apps - see 3 above
@@ -24,6 +24,9 @@ G. Now the app with your settings is ready to be tested, the options are
 - use the Companion App which will test your app on your phone - see https://appinventor.mit.edu/explore/ai2/setup-device-wifi.html
 - use the MIT App Inventor Emulator which you will need to download - see https://appinventor.mit.edu/explore/ai2/setup-emulator.html
 - or save the project as an installable file (.apk) which you can manually install on your Android phone and test it.
+
+## Using the App
+Click the Inbox Button and text file is retrieved, edit text as required and click update to save changes to dropbox.
 
 ## Next Steps
 Hopefully this project can be useful to obsidian users and if you get familiar with MIT App Inventor 2 then it would be easy to customise this basic app further with ideas such as
