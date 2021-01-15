@@ -1,5 +1,5 @@
 # obsidian-inbox
-An Android App for Android which will read and update a dropbox text file.
+An Android App for Android which will read and update a dropbox text file. Developed using MIT App Inventor 2 (https://appinventor.mit.edu/)
 
 The specific file I needed to access and update is a markdown file in my obsidian vault which is kept in dropbox.
 
