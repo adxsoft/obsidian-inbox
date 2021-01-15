@@ -13,8 +13,8 @@ I built this app in a couple of hours using MIT App Inventor 2 (see step 4 below
 
 ## Customising the app
 A. Click start a new project
-B. Download the file *obsidian_inbox.aia* which you can load into MIT APP Inventor 2 to your computer
-C. Choose Projects menu, Import project (.aia) from my computer and choose the file *obsidian_inbox.aia*
+B. Download the file *obsidian_inbox.aia.zip* to your computer
+C. Choose Projects menu, Import project (.aia) from my computer and choose the file *obsidian_inbox.aia* you just unzipped in step A
 D. Once the project is loaded click on the Blocks button at the top right
 E. change the global variables as follows
 F. global DropboxAccessToken   - set to your Dropbox Access Token value
