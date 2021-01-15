@@ -24,3 +24,11 @@ G. Now the app with your settings is ready to be tested, the options are
 - use the Companion App which will test your app on your phone - see https://appinventor.mit.edu/explore/ai2/setup-device-wifi.html
 - use the MIT App Inventor Emulator which you will need to download - see https://appinventor.mit.edu/explore/ai2/setup-emulator.html
 - or save the project as an installable file (.apk) which you can manually install on your Android phone and test it.
+
+## Next Steps
+Hopefully this project can be useful to obsidian users and if you get familiar with MIT App Inventor 2 then it would be easy to customise this basic app further with ideas such as
+- Dropdown list of multiple text files you may wish to update
+- add a markdown preview screen
+- add voice input and/or text to speech
+etc
+
